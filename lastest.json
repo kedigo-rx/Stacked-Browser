@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/kedigo-rx/Stacked-Browser/releases/latest/download/Stacked-win-x64.zip",
+  "downloadUrl": "https://github.com/kedigo-rx/Stacked-Browser/releases/latest/download/Stacked-win-x64.zip",
+  "fallbackDownloadUrl": "http://127.0.0.1:4545/Stacked-1.0.0-win-x64.zip",
+  "installerUrl": "https://github.com/kedigo-rx/Stacked-Browser/releases/latest/download/StackedInstaller.exe",
+  "installerVersionedUrl": "https://github.com/kedigo-rx/Stacked-Browser/releases/latest/download/StackedInstaller-v1.0.0.exe",
+  "sha256": "7c9e3fb14c54a67fe72fc3250dcf891ffbcdcf9938c731ef1af40ff80fb8450a",
+  "size": 144118597,
+  "releaseDate": "2026-11-24T19:08:56.308Z",
+  "releaseNotes": "Production release of Stacked browser: Opera-inspired vertical sidebar, instant cached favicons, Opera GX-style settings & wallpapers, verified network installer with SHA-256 integrity check.",
+  "minInstallerVersion": "1.0.0"
+}
